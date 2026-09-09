@@ -91,7 +91,6 @@ The analysis suggests focusing on:
 * `README.md` — Project documentation
 
 ## 👩‍💻 Author
+Subiksha
 
-**Your Name**
 
-Seasonal Agriculture Performance Analysis
